@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.f8e1878c.chunk.css",
+    "main.css": "/static/css/main.57935a91.chunk.css",
     "main.js": "/static/js/main.4a5467f7.chunk.js",
     "main.js.map": "/static/js/main.4a5467f7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.39bd59cf.js",
@@ -8,9 +8,9 @@
     "static/js/2.5937837e.chunk.js": "/static/js/2.5937837e.chunk.js",
     "static/js/2.5937837e.chunk.js.map": "/static/js/2.5937837e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a1e2044e0d5da8c8a58fbbcf4c455265.js": "/precache-manifest.a1e2044e0d5da8c8a58fbbcf4c455265.js",
+    "precache-manifest.7faaeb925c6a3d11243249f4559ed526.js": "/precache-manifest.7faaeb925c6a3d11243249f4559ed526.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.f8e1878c.chunk.css.map": "/static/css/main.f8e1878c.chunk.css.map",
+    "static/css/main.57935a91.chunk.css.map": "/static/css/main.57935a91.chunk.css.map",
     "static/media/Gmail.svg": "/static/media/Gmail.3416101b.svg",
     "static/media/Html.svg": "/static/media/Html.aa076fcf.svg",
     "static/media/Mapa.svg": "/static/media/Mapa.673b236e.svg",
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.39bd59cf.js",
     "static/js/2.5937837e.chunk.js",
-    "static/css/main.f8e1878c.chunk.css",
+    "static/css/main.57935a91.chunk.css",
     "static/js/main.4a5467f7.chunk.js"
   ]
 }
